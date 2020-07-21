@@ -23,5 +23,6 @@
 * вёрстка не ломается между брейкпоинтами
 * код форматирован одинаково, соблюдается иерархия отступов
 
+
 ### Пример,как выглядит сайт:
 ![alt GIf](https://github.com/bmstustudent/russian-travel-new-/blob/master/russian-travel.gif)
