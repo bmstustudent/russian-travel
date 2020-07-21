@@ -1,6 +1,6 @@
 # Проект 3: Путешествие по России
 
-[Сслыка на проект](https://bmstustudent.github.io/russian-travel/index.html)
+[Сслыка на проект](https://bmstustudent.github.io/russian-travel-new-/)
 
 ## Макет предоставлен Яндекс.Практикум
 [sprint-3](https://www.figma.com/file/OyRWEjU6wBwRe1hapzQoLx/Sprint-3%3A-Russia-%2F-desktop-%2B-mobile)
@@ -24,4 +24,4 @@
 * код форматирован одинаково, соблюдается иерархия отступов
 
 ### Пример,как выглядит сайт:
-![alt GIf](https://github.com/bmstustudent/russian-travel/blob/master/russian-travel.gif)
+![alt GIf](https://github.com/bmstustudent/russian-travel-new-/blob/master/russian-travel.gif)
